@@ -15,11 +15,11 @@ AccountId|AccountDescription|RegDate   |UserId|
 
 
 #Account Chart and State
-/*
 
-AccChartId	AccId	AccChartNo	AccChartDescription	      AccChartAmnt
------------------------------------------------------------------
-1			      1		  100			  Bank Money					        0
+
+|AccChartId|AccId|AccChartNo|AccChartDescription|AccChartAmnt|
+|----------|-----|----------|-------------------|------------|
+|1	   |1    |100	    |Bank Money		|0           |
 2			      1		  101			  Cash						            0
 3			      1		  102			  Account Receivable		      0
 4			      1		  103			  Provisions					        0
@@ -45,16 +45,16 @@ AccChartId	AccId	AccChartNo	AccChartDescription	      AccChartAmnt
 24			    6		  696			  Travelling					        0
 25			    6		  697			  Labor and Walfare Expenses	0
 
-*/
+
 
 
 #Type of Transactions
-/*
-AccTransId	AccTransactionDescription					          RegDate		  UserId
--------------------------------------------------------------------------------
-1			      Purchase of static inventory				        2013-07-29	1
-2			      Purchase of articles for sales				      2013-07-29	1
-3			      Movement from one account to another ones	  2013-07-29	1
+
+|AccTransId|AccTransactionDescription                  |RegDate   |UserId|
+|----------|-------------------------------------------|----------|------|
+|1	   |Purchase of static inventory	       |2013-07-29|1|
+|2         |Purchase of articles for sales             |2013-07-29|1|
+|3         |Movement from one account to another ones  |2013-07-29|1|
 
 */
 
