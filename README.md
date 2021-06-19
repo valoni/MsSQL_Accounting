@@ -45,9 +45,9 @@ AccountId|AccountDescription|RegDate   |UserId|
 #Type of Transactions
 |AccTransId|AccTransactionDescription                  |RegDate   |UserId|
 |----------|-------------------------------------------|----------|------|
-|1	   |Purchase of static inventory	       |2013-07-29|1|
-|2         |Purchase of articles for sales             |2013-07-29|1|
-|3         |Movement from one account to another ones  |2013-07-29|1|
+|1|Purchase of static inventory |2013-07-29|1|
+|2|Purchase of articles for sales|2013-07-29|1|
+|3|Movement from one account to another ones|2013-07-29|1|
 
 
 #Formula for Batch Transactions
