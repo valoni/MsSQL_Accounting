@@ -53,11 +53,11 @@ AccountId|AccountDescription|RegDate   |UserId|
 #Formula for Batch Transactions
 |AccTransDetailsId|AccTransId|ToAccountNo|TranAction|FormulaFromValues|RegDate|UserId|
 |-----------------|----------|-----------|----------|-----------------|--------------|
-|1|1|100|-|VAL|2013-07-29|1|
-|2|2|100|-|VAL|2013-07-29|1|
-|3|2|105|+|VAL|2013-07-29|1|
-|4|3|Acc1|-|VAL|2013-07-29|1|
-|5|3|Acc2|+|VAL|2013-07-29|1|
+|1|1|100| - |VAL|2013-07-29|1|
+|2|2|100| - |VAL|2013-07-29|1|
+|3|2|105| + |VAL|2013-07-29|1|
+|4|3|Acc1| - |VAL|2013-07-29|1|
+|5|3|Acc2| + |VAL|2013-07-29|1|
 
 
 #Accounts/Transactions Movement and Formula for Calc
