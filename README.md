@@ -1,7 +1,7 @@
 # MsSQL_Accounting
 Simple MS SQL Accounting System
 
-```SQL
+
 
 #Account Class
 /*
