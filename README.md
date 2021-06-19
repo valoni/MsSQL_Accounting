@@ -4,16 +4,15 @@ Simple MS SQL Accounting System
 
 
 #Account Class
-/*
-AccountId	AccountDescription	RegDate		  UserId
---------------------------------------------------------
-	1		    Assets				      2013-07-29	1
-	2		    Liability			      2013-07-29	1
-	3		    Equity				      2013-07-29	1
-	4		    Revenue				      2013-07-29	1
-	5		    Expenses	    		  2013-07-29	1
-	6		    Contra Accounts		  2013-07-29	1
-*/
+
+AccountId|AccountDescription|RegDate   |UserId
+---------|------------------|----------|------
+	1|Assets	    |2013-07-29|1
+	2|Liability         |2013-07-29|1
+	4|Revenue	    |2013-07-29|1
+	5|Expenses          |2013-07-29|1
+	6|Contra Accounts   |2013-07-29|1
+
 
 #Account Chart and State
 /*
